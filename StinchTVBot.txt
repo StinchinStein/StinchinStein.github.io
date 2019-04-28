@@ -1,1 +1,33 @@
-!help - show this page
+!help - Show this page.
+
+!quote <add> - adds a quote to the board.
+!quote - Prints a random quote.
+
+!ac <add> - Adds an achievement "Achievement Get! <acName>"
+!ac - Prints how many achievements the streamer has gotten.
+
+!boo - Scare the bot.
+!specs - TODO: Print streamers PC specs?
+!calm - Tell people to calm down
+!uptime - How long the streamer has been live
+!oof - Oof
+!tmft - Too much for Twitch
+!itsfine - Is it really though?
+!hype - Hype up the chat
+!death - Add to the streamers death counter
+!think - Do you smell something burning?
+!end - Tell everyone the streamer ended the game they are playing
+!endabrupt - They didn't finish the game they were playing.
+!f - I bet you can guess what this does...
+!bsg - Backseat gaming alert
+!eyes - Hehe...
+!spooky - Bot tells people it's spooky
+!spook - Does same thing as !spooky, will add to spook counter later.
+!yeet - YEET SKEET AND DELETE!
+!hi <name> - Hi <name>, I'm dad!
+!bday <name> - HAPPY BIRTHDAY @<name>!
+!fork - Feck
+!special - Bot tells you that you are special
+!lyric - TODO: Print random lines from songs.
+!dad - DaD JoKeS
+!meme - TODO: Print a random meme 
